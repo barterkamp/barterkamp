@@ -21,7 +21,7 @@ A small selection of projects I've build:
 + [Typemaster Landingpage](https://typemaster-version-2.vercel.app/)
   - Build with HTML and CSS
   
-+ [multi-page minimalist portfolio site](https://minimalist-portfolio-git-master-barterkamp.vercel.app/)
++ [Multi-page minimalist portfolio site](https://minimalist-portfolio-git-master-barterkamp.vercel.app/)
   - Build with HTML, CSS and a touch of Vanilla Javascript
 
 + [Tip Calculator](https://tip-calculator-barterkamp.vercel.app/)
@@ -35,7 +35,7 @@ A small selection of projects I've build:
 ### Solving :crystal_ball:
 
 Besides building projects I also occasionally try to solve a JavaScript coding challenge.
-(Tbh, I'm still in easy mode)
+(Tbh, I'm still on easy mode)
 
 + Sites I use
   - [coderbyte](https://coderbyte.com/)

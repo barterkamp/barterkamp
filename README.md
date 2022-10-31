@@ -22,7 +22,7 @@ A small selection of projects I've build:
   - Build with HTML and CSS
   
 + [Multi-page minimalist portfolio site](https://minimalist-portfolio-git-master-barterkamp.vercel.app/)
-  - Build with HTML, CSS and a touch of Vanilla Javascript
+  - Build with HTML, Sass and a touch of Vanilla Javascript
 
 + [Tip Calculator](https://tip-calculator-barterkamp.vercel.app/)
   - Build with HTML, CSS and Vanilla Javascript. 

@@ -26,7 +26,6 @@ A small selection of projects I've build:
 
 + [Tip Calculator](https://tip-calculator-barterkamp.vercel.app/)
   - Build with HTML, CSS and Vanilla Javascript. 
-    * I struggled a lot to get the logic right (and sometimes had to look at someone else's code to get unstuck)
     
 + [Audiophile Webshop](https://barterkamp.github.io/audiophile-webshop/)
   - Build with React, React router, Redux toolkit
@@ -35,7 +34,6 @@ A small selection of projects I've build:
 ### Solving :crystal_ball:
 
 Besides building projects I also occasionally try to solve a JavaScript coding challenge.
-(Tbh, I'm still on easy mode)
 
 + Sites I use
   - [coderbyte](https://coderbyte.com/)
